@@ -7,13 +7,11 @@ This repository contains a SystemVerilog implementation of a FIFO (First-In-Firs
 Watch this video for a detailed explanation of FIFO design and implementation in SystemVerilog:
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
-  <iframe 
-    src="https://www.youtube.com/embed/U54oiMhJSIo" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
+  [Watch the video tutorial on YouTube](https://www.youtube.com/watch?v=U54oiMhJSIo)
+  [![Watch the video](https://img.youtube.com/vi/U54oiMhJSIo/0.jpg)](https://www.youtube.com/watch?v=U54oiMhJSIo)
 </div>
+
+[![Watch the video](https://img.youtube.com/vi/U54oiMhJSIo/0.jpg)](https://www.youtube.com/watch?v=U54oiMhJSIo)
 
 ## Prerequisites
 
